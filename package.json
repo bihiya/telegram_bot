@@ -1,0 +1,25 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "telegram bot for me",
+  "main": "bot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bihiya/telegram_bot.git"
+  },
+  "keywords": [
+    "telegram"
+  ],
+  "author": "Lav Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bihiya/telegram_bot/issues"
+  },
+  "homepage": "https://github.com/bihiya/telegram_bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
